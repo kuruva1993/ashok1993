@@ -1,1 +1,2 @@
 Doing merge conflict
+Sometimes I do merge conflict
